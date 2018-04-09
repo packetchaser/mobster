@@ -1,3 +1,6 @@
+
+## THIS PROJECT IS NO LONGER ACTIVE
+
 ![Mobster](http://static1.squarespace.com/static/56473ab6e4b0b678b28ed199/t/564765bbe4b06b7d18ce3137/1447519676004/mobster-banner.png)
 
 This is an experimental project that was demonstrated at the 2015 Suricata User Conference.
